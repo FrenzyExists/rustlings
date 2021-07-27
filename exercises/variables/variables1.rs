@@ -9,6 +9,13 @@
 // I AM NOT DONE
 
 fn main() {
-    x = 5;
+    let x = 5;
     println!("x has the value {}", x);
+
+    // if you change the variable it will blow up cuz x is
+    // immutable. So, lets make a mutable one.
+    let mut y = "reeeeeeeeeeeeeeeeeee";
+    println!("y contains the string '{}'", y);
+    y = "Hello Darkness my old friend";
+    println!("y now contains the string '{}'", y);
 }
