@@ -13,6 +13,16 @@ Alternatively, for a first-time Rust learner, there are several other resources:
 - [The Book](https://doc.rust-lang.org/book/index.html) - The most comprehensive resource for learning Rust, but a bit theoretical sometimes. You will be using this along with Rustlings!
 - [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html) - Learn Rust by solving little exercises! It's almost like `rustlings`, but online
 
+## NOTE
+
+Hi! This is Frenzy here. This fork is me solving the exercises on my own, well, kinda, using the rust book online and all. So, if you fork this you'll have the answers, well, some of em, I'm still filling it out. This is more for my own, just learning the ways of the rustecean.
+
+### Status: I'm not even close to a padawan rustecean :(
+
+### Exercises I've done at the moment:
+- if
+- variables
+
 ## Getting Started
 
 _Note: If you're on MacOS, make sure you've installed Xcode and its developer tools by typing `xcode-select --install`._
